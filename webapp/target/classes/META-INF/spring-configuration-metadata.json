@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "com.youssef.webapp",
+      "type": "com.youssef.webapp.configuration.CustomProperties",
+      "sourceType": "com.youssef.webapp.configuration.CustomProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.youssef.webapp.api-url",
+      "type": "java.lang.String",
+      "sourceType": "com.youssef.webapp.configuration.CustomProperties"
+    }
+  ],
+  "hints": []
+}

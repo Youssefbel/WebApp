@@ -1,0 +1,8 @@
+com\youssef\webapp\service\EmployeeService.class
+com\youssef\webapp\configuration\CustomProperties.class
+com\youssef\webapp\repository\EmployeeProxy$1.class
+com\youssef\webapp\repository\EmployeeProxy.class
+com\youssef\webapp\WebappApplication.class
+com\youssef\webapp\controller\EmployeeController.class
+com\youssef\webapp\model\Employee.class
+META-INF\spring-configuration-metadata.json
